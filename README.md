@@ -6,7 +6,7 @@ A simple terminal style shell made using python
 # Note
 This is not a REAL KERNAL but a mini operating system simulator
 
-#Features
+# Features
 -A simple calculator
 
 -a web search(Kinda)
