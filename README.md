@@ -14,3 +14,6 @@ This is not a REAL KERNAL but a mini operating system simulator
 -system information
 
 -pyfetch(fastfetch like interface)
+
+# Installation 
+Download the Pytherion os.py and click on it
