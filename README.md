@@ -5,6 +5,7 @@ A simple terminal style shell made using python
 
 # Note
 This is not a REAL KERNAL but a mini operating system simulator
+make sure to install time, socket, cpuinfo, datetime, requests, psutil, os and autocorrect libreries
 
 # Features
 -A simple calculator
